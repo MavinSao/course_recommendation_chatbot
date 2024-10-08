@@ -53,9 +53,6 @@ This is an AI-powered course recommendation chatbot that provides personalized c
 - Update the `REQUIRED_PACKAGES` list if you need to add or remove dependencies.
 - Adjust the language model settings in the `setup_qa_chain()` function to use different models or parameters.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
